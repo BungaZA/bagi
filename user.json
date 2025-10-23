@@ -1,0 +1,44 @@
+[
+    {
+        "no": 1,
+        "username": "bunga",
+        "password": "123",
+        "role": "penumpang",
+        "emoney": 0
+    },
+    {
+        "no": 2,
+        "username": "nisa",
+        "password": "234",
+        "role": "penumpang",
+        "emoney": 0
+    },
+    {
+        "no": 3,
+        "username": "aya",
+        "password": "2344bju",
+        "role": "penumpang",
+        "emoney": 0
+    },
+    {
+        "no": 4,
+        "username": "nazmi",
+        "password": "909090",
+        "role": "penumpang",
+        "emoney": 0
+    },
+    {
+        "no": 5,
+        "username": "dutt",
+        "password": "cantik",
+        "role": "penumpang",
+        "emoney": 0
+    },
+    {
+        "no": 6,
+        "username": "mou",
+        "password": "silae",
+        "role": "penumpang",
+        "emoney": 0
+    }
+]

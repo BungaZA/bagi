@@ -1,0 +1,13 @@
+[
+    {
+        "no": 1,
+        "nomor_bus": 101,
+        "nama": "bus kutai",
+        "asal": "bontang",
+        "tujuan": "Samarinda",
+        "status": "tersedia",
+        "qty": 5,
+        "terisi": 2,
+        "harga": 50000
+    }
+]
